@@ -122,7 +122,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any questions or suggestions, please contact [your-email@example.com].
+For any questions or suggestions, please contact [rahulkumarroy477@gmail.com].
 
 ---
 
