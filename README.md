@@ -1,6 +1,4 @@
-
-
-# AI-Driven Application Generator
+# scriptToApplication
 
 This project demonstrates an AI-driven approach to automatically generate a basic application structure and code using Google’s Gemini API. The project involves generating a folder structure and populating it with code based on user input.
 
@@ -23,8 +21,8 @@ This project demonstrates an AI-driven approach to automatically generate a basi
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-repo/ai-driven-app-generator.git
-    cd ai-driven-app-generator
+    git clone https://github.com/rahulkumarroy477/scriptToApplication.git
+    cd scriptToApplication
     ```
 
 2. **Create and activate a virtual environment:**
